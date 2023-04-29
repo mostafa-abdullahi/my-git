@@ -12,3 +12,8 @@ body{
     margin-right: auto;
     margin-left: auto;   
 }
+.navbar{
+    background-color: #fff;
+    padding: 2px 5px;
+    list-style-type: none;
+}
