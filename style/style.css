@@ -1,11 +1,15 @@
 body{
     margin: 0;
     background-color: #fff;
+    font-size: 16px;
 }
 *{
     direction: rtl;
     display: flex;
     flex-wrap: wrap;
+}
+a{
+    text-decoration: none;
 }
 .container{
     width: 1080px;
@@ -20,4 +24,11 @@ body{
 .section_box{
     color: #111;
     margin: 2px;
+}
+.footer_boxsizing{
+    background-color: darkslategray;
+}
+.nav_footerbox{
+    padding: 10px 20px;
+    font-size: 2rem;
 }
