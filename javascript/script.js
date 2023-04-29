@@ -1,0 +1,5 @@
+let a = 10;
+let b = 20;
+let z = a+b;
+let control = 'control' + z;
+console.log(control);
