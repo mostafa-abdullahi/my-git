@@ -8,3 +8,4 @@ function section_box(){
     console.log('section_box.title')
 }
 section_box()
+console.log('finished footer')
