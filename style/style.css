@@ -17,3 +17,7 @@ body{
     padding: 2px 5px;
     list-style-type: none;
 }
+.section_box{
+    color: #111;
+    margin: 2px;
+}
