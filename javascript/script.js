@@ -8,7 +8,7 @@ function section_box(){
     console.log('section_box.title')
 }
 section_box()
-HEAD
+
 console.log('finished footer')
 
 console.log('footer_add')

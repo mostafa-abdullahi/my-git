@@ -25,3 +25,10 @@ a{
     color: #111;
     margin: 2px;
 }
+.footer_boxsizing{
+    background-color: darkslategray;
+}
+.nav_footerbox{
+    padding: 10px 20px;
+    font-size: 2rem;
+}
